@@ -22,3 +22,5 @@ let d= 2, e= 1;
 let result = --d - --e + ++e + e--;
 console.log(result);
     
+
+ 

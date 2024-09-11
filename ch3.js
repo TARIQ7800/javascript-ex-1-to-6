@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>chapter 03</title>
-</head>
-<body>
-    <script>
+
 var age = 25; 
 alert("I am " + age + " years old");
 
@@ -33,6 +25,4 @@ var visitorName = "John Doe";
        
         document.write(message);
 
-    </script>
-</body>
-</html>
+ 

@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>chapter 2</title>
-    <script src="app.js"></script>
-</head>
-<body>
-    <script>
+
         var stdName = "jhone doe";
         var stdAge = 15;
         var stdCourse = "certified mobile application development";
@@ -21,15 +12,13 @@
 
 
         var email = "youremail@example.com";
-        alert("My email address is " + email);
+        alert("My Email address is " + email);
 
 
         var book = "A SMARTER WAY TO LEARN JAVASCRIPT";
-       alert("I am learning from the book " + book);
+       alert("I am learning javascript from the book " + book);
 
        var greetingMessage = "Welcome to JavaScript Learning!";
        document.write(greetingMessage);
 
-    </script>
-</body>
-</html>
+    
